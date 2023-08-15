@@ -1,0 +1,24 @@
+From 77a6e743ced01aca24d484e968ac19a3f6c1574b Mon Sep 17 00:00:00 2001
+From: ZHAZHA <1607651265@qq.com>
+Date: Sun, 16 Jul 2023 20:26:22 +0800
+Subject: [PATCH 1/2] =?UTF-8?q?=E6=96=B0=E5=A2=9Edev?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+---
+ dev.txt | 1 +
+ 1 file changed, 1 insertion(+)
+ create mode 100644 dev.txt
+
+diff --git a/dev.txt b/dev.txt
+new file mode 100644
+index 0000000..c59d9b6
+--- /dev/null
++++ b/dev.txt
+@@ -0,0 +1 @@
++d
+\ No newline at end of file
+-- 
+2.41.0.windows.1
+

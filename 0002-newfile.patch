@@ -1,0 +1,19 @@
+From a00b94f4acef44a8f62e74f44477a49bb4f020ea Mon Sep 17 00:00:00 2001
+From: ZHAZHA <1607651265@qq.com>
+Date: Sun, 16 Jul 2023 20:38:28 +0800
+Subject: [PATCH 2/2] =?UTF-8?q?=E6=96=B0=E5=A2=9Enewfile?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+---
+ newfile.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 newfile.txt
+
+diff --git a/newfile.txt b/newfile.txt
+new file mode 100644
+index 0000000..e69de29
+-- 
+2.41.0.windows.1
+
